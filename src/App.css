@@ -1,0 +1,13 @@
+.css-1633um2-MuiPaper-root{
+  box-shadow: none !important;
+}
+
+.css-a5rdam-MuiGrid-root {
+  margin-top: 50px !important;
+}
+
+#container{
+  max-width: 1400px;
+  margin-left: auto;
+  margin-right: auto;
+}
